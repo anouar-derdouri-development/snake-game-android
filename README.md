@@ -16,7 +16,7 @@ Blog Post: https://medium.com/@themukeshsolanki/classic-snake-game-with-jetpack-
 
 ## Author
 
-Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)
+**Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)**
 
 ## Contribution
 
