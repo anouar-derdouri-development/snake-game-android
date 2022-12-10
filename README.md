@@ -1,5 +1,6 @@
 # Snake Game Android
-Snake game for Android made with Jetpack Compose. 
+
+Snake game for Android made with Jetpack Compose.
 Blog Post: https://medium.com/@themukeshsolanki/classic-snake-game-with-jetpack-compose-2b78f4892ca
 
 <img src="https://raw.githubusercontent.com/mukeshsolanki/snake-game-android/main/screenshots/menu.png" width="248px"/> &nbsp;&nbsp;
@@ -8,19 +9,23 @@ Blog Post: https://medium.com/@themukeshsolanki/classic-snake-game-with-jetpack-
 <img src="https://raw.githubusercontent.com/mukeshsolanki/snake-game-android/main/screenshots/highscore.png" width="248px"/> &nbsp;&nbsp;
 
 ## How to build the app
+
 1. Clone the repository.
 2. Goto Android Studio and open the project.
-The project should compile properly no additional steps needed
+   The project should compile properly no additional steps needed
 
 ## Author
+
 Maintained by [Mukesh Solanki](https://www.github.com/mukeshsolanki)
 
 ## Contribution
+
 [![GitHub contributors](https://img.shields.io/github/contributors/mukeshsolanki/snake-game-android.svg)](https://github.com/mukeshsolanki/snake-game-android/graphs/contributors)
 
 * Bug reports and pull requests are welcome.
 
 ## License
+
 ```
 MIT License
 
